@@ -32,5 +32,4 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helenvirtanen28@gmail.com)
 
 ---
-
-![Profile views](https://komarev.com/ghpvc/?username=helenvirtanen&style=flat-square&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=helenvirtanen&style=flat-square&color=8A2BE2)
