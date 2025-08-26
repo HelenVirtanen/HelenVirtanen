@@ -2,7 +2,7 @@
 
 ### Я — Frontend разработчик 💻
 
-- 🔭 Сейчас работаю над: [Friendly Forecast 🌤](https://github.com/HelenVirtanen/weather-forecast-app)
+- 🔭 Сейчас работаю над [Akkords 🎸🎶](https://akkords.net/)
 - 🌱 Изучаю: улучшение UI/UX, доступность и анимации
 - 💬 Ценю чистый код, следую принципам SOLID и DRY
 - 🎨 Стремлюсь к интиуитивному и доступному UX
