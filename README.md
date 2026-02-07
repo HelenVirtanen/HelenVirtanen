@@ -9,7 +9,7 @@
 
 ---
 
-### 🧰 Мой основной стек
+### 🧰 Мой стек
 
 <p align="left" margin-bottom="0">
   <img src="https://img.shields.io/badge/HTML5-DA0448?style=for-the-badge&logo=html5&logoColor=white"/> 
