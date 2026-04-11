@@ -2,7 +2,7 @@
 
 ### Я — Frontend разработчик 💻
 
-- 🔭 Сейчас работаю над [Akkords 🎸🎶](https://akkords.net/)
+- 🔭 Сейчас работаю над [Akkords 🎶](https://akkords.net/) и [Astrostilist🌙](https://github.com/Astrostilist) 
 - 🌱 Изучаю: улучшение UI/UX, доступность и анимации
 - 💬 Ценю чистый код, следую принципам SOLID и DRY
 - 🎨 Стремлюсь к интиуитивному и доступному UX
