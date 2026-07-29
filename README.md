@@ -1,6 +1,6 @@
 # Привет 👋, меня зовут Елена
 
-### Я — Frontend разработчик 💻
+### Я — Fullstack-разработчик 💻
 
 - 🔭 Сейчас работаю над [Diplodoc](https://github.com/diplodoc-platform)
 - Работала на проектах [Akkords 🎶](https://akkords.net/) и [Astrostilist🌙](https://github.com/Astrostilist) 
