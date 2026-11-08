@@ -30,8 +30,8 @@
 
 ### Сообщества
 
-- [Moscow CSS](https://css.moscow/)
-- [SPB Frontend](https://t.me/spb_frontend)
+- [Moscow CSS](https://css.moscow/) — Co-org
+- [SPB Frontend](https://t.me/spb_frontend) — Chief Breakfast Officer
 
 ---
 
