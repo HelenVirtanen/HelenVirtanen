@@ -31,7 +31,7 @@
 ### Сообщества
 
 - [Moscow CSS](https://css.moscow/) — Co-org 🦸‍♀️
-- [SPB Frontend](https://t.me/spb_frontend) — Chief Breakfast Officer 🧝‍♀️
+- [SPB Frontend](https://t.me/spb_frontend) — Breakfast Appreciation Officer 🧝‍♀️
 
 ---
 
